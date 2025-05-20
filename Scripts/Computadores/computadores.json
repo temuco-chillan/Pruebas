@@ -1,0 +1,12 @@
+[
+  {
+    "nombre_maquina": "PC Gamer",
+    "estado": "No Disponible",
+    "id": 1
+  },
+  {
+    "nombre_maquina": "pctantotanto",
+    "estado": "Por su pollo",
+    "id": 2
+  }
+]
