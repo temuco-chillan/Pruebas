@@ -1,4 +1,3 @@
 import os
 
-os.system(/bin/bash)
-
+os.system("/bin/bash")
